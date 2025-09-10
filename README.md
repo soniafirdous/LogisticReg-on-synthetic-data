@@ -6,9 +6,9 @@ This repository demonstrates Logistic Regression for both binary and multi-class
 
 We model two scenarios:
 
-Student Performance → Predict whether a student passes or fails based on study and sleep hours.
+✅❌Student Performance → Predict whether a student passes or fails based on study and sleep hours.
 
-Fruit Classification → Predict fruit type (Apple, Banana, Orange) based on sweetness and crunchiness.
+🍎🍌🍊Fruit Classification → Predict fruit type (Apple, Banana, Orange) based on sweetness and crunchiness.
 
 ⚙️ Features
 
